@@ -2,7 +2,7 @@
 Vote System for Mayor Elections [UI] [FiveM]
 
 ## Dependencies
-- ld-ui
+- fizzfau-ui (https://github.com/fizzfau/fizzfau-ui)
 - mythic_notify (https://github.com/JayMontana36/mythic_notify)
 
 ## How to Setup
