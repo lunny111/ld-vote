@@ -3,7 +3,7 @@ Vote System for Mayor Elections [UI] [FiveM]
 
 ## Dependencies
 - ld-ui
-- mythic_notify
+- mythic_notify (https://github.com/JayMontana36/mythic_notify)
 
 ## How to Setup
 
